@@ -1,5 +1,5 @@
 # Saddle-SLAM
-The code is barely modify from the code github.com/raulmur/ORB_SLAM2. See directions of the code in the main page of the original project. This code is modify to support Saddle detector (**[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7899712)**) instead of ORB. A visual vocabulary learned from Saddle detections is provided.
+The code is barely modify from the code github.com/raulmur/ORB_SLAM2. See directions of the code in the main page of the original project. This code is modify to support Saddle detector (**[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7899712)**) instead of ORB. A visual vocabulary learned from Saddle detections is provided.
 
 
 

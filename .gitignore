@@ -23,5 +23,7 @@ build2/
 lib/
 CMakeFiles/
 cmake_install.cmake
-Vocabulary/
+Vocabulary/orb1.2_ox5k_db.yml.gz
+Vocabulary/sad1.2_ox5k_db.yml.gz
+Vocabulary/sad1.3_ox5k_db.yml.gz
 cmake_modules/

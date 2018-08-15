@@ -24,3 +24,4 @@ lib/
 CMakeFiles/
 cmake_install.cmake
 Vocabulary/
+cmake_modules/

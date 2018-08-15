@@ -10,7 +10,7 @@ ORB-SLAM2 is a real-time SLAM library for **Monocular**, **Stereo** and **RGB-D*
 
 ### Related Publications:
 
-[Saddle] Javier Aldana-Iuit, Dmytro Mishkin, Ondrej Chum, Jiri Matas. **In the Saddle: Chasing Fast and Repeatable Features**. *2016 23rd International Conference on Pattern Recognition (ICPR),* pp. 675-680, 2016. **[PDF](http://webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf)**.
+[Saddle] Javier Aldana-Iuit, Dmytro Mishkin, Ondrej Chum, Jiri Matas. **In the Saddle: Chasing Fast and Repeatable Features**. *23rd International Conference on Pattern Recognition (ICPR),* pp. 675-680, 2016. **[PDF](http://webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf)**.
 
 
 # 1. License
